@@ -5,7 +5,7 @@
  * Plugin Name: AAA New Test Plugin
  * Plugin URI:  https://wordpress.org/plugins/classic-editor/
  * Description: Enables the WordPress AAA New Test Plugin
- * Version:     1.0.0
+ * Version:     1.0.2
  * Author:      autocircle
  * Author URI:  https://github.com/autocircled/
  * License:     GPLv2 or later
@@ -31,3 +31,5 @@ $myUpdateChecker = PucFactory::buildUpdateChecker(
 	__FILE__, //Full path to the main plugin file or functions.php.
 	'aaa-new-test-plugin'
 );
+
+// test comment by autocircle 1.0.2
